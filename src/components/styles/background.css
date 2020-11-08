@@ -1,0 +1,14 @@
+
+body {
+    border: 0;
+    margin: 0;
+    padding: 0;
+    /* font-family: "Lato"; */
+    height: 100%;
+    background: rgb(101, 31, 87);
+    background: linear-gradient(
+      to right,
+      rgba(9, 191, 236, 0.034),
+      rgba(63, 66, 70, 0.815),
+      rgba(15, 166, 212, 0.062));
+}
