@@ -6,6 +6,8 @@ import Table from '../pages/Table.jsx';
 import Dashboard from '../pages/Dashboard.jsx';
 import Layout from './Layout';
 import Hook from '../pages/hook.jsx';
+import Conver from './Task-01.jsx'
+import Party from './Task-02.jsx'
 
 import './styles/background.css'
 
@@ -17,6 +19,8 @@ function App() {
         <Table path="table" />
         <Dashboard path="dashboard" />
         <Hook path="hook" />
+        <Conver path="conver" />
+        <Party path="party" />
       </Router>
     </Layout>
   );
